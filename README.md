@@ -5,6 +5,7 @@
 ```
 val jinsub = AndroidDeveloper(
     name = "KimJinSub",
+    emailAddress = "rlawlstjq9985@gmail.com",
     Language = "Java, Kotlin",
     IDE = "Visual Studio,  Android Studio, IntelliJ IDEA",
     target = "android developer",
