@@ -6,9 +6,9 @@
 val jinsub = AndroidDeveloper(
     name = "KimJinSub",
     emailAddress = "rlawlstjq9985@gmail.com",
-    Language = "Java, Kotlin",
-    IDE = "Android Studio, IntelliJ IDEA, "Visual Studio",
+    language = "Java, Kotlin",
+    ide = "Android Studio, IntelliJ IDEA, "Visual Studio",
     target = "android developer",
-    hobby ="I like watching movies"
+    challenge ="Create apps that can help in real life"
 )
 ```
