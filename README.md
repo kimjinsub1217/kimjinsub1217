@@ -8,6 +8,6 @@ val jinsub = AndroidDeveloper(
     emailAddress = "rlawlstjq9985@gmail.com",
     language = "Java, Kotlin",
     ide = "Android Studio, IntelliJ IDEA, "Visual Studio",
-    challenge ="Create apps that can help in real life"
+    challenge ="Develop a mobile application that provides practical assistance in everyday life."
 )
 ```
